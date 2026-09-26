@@ -5,4 +5,4 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 
 Analyze account-level net contributions and service tiers to determine where Southwest Office Solutions is losing money and recommend policy changes, [Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/AdvancinginExcelandTableau-Pt_2_17897851165190/AccountPortfolioDashboard?publish=yes); If I were doing this project again, I'd plan out the filter interactions and context filters earlier to spend more time refining the visual focus.
 
-MIS561, September 26th, 2026, [Tableau Workbook Link](https://public.tableau.com/views/PowerBITrainingCertifications_17904654785640/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link );
+MIS561 - September 26th, 2026, [Tableau Workbook Link](https://public.tableau.com/views/PowerBITrainingCertifications_17904654785640/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
