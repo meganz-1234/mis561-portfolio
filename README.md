@@ -13,7 +13,6 @@ MIS561 - October 6th, 2026, [Data Visualization in Power BI Certification](https
 
 At Southwest, I would use Excel for quick data cleaning, simple calculations, and smaller analyses. I would use Tableau when I need more customized visuals or presentation-focused analysis. I would use Power BI for interactive reports, reusable calculations, and recurring business reporting. One area I still need to improve is getting more experience using Power BI outside of coursework. All of my Power BI experience so far has come from DataCamp and class projects, so I have not had much experience building reports for an actual business need. I would work on this by continuing to build Power BI projects with larger datasets and practicing how to create, publish, and update reports based on changing business needs.
 
-the assignment name, the
-business question in one sentence, [Card Portfolio Review - Contactless Readiness
-](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), and one thing you would change if you
-did it again. 
+Bear Down Bank Card Portfolio - Contactless Readiness, Determine which non-contactless card portfolio segment should Bear Down Bank target for a single early-replacement batch this quarter to maximize customer value without wasting budget on imminent auto-expirations; [Card Portfolio Review - Contactless Readiness
+](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I did this again, I would give the viewer a toggle button to quickly switch between viewing card counts and total dollar costs.
+
