@@ -26,4 +26,4 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: r
 
 Design choice: I used a single bar chart of only the non-contactless cards, with the 7 to 12 month group in green and the others in gray, because Renee’s decision is which batch to replace early, and one highlighted bar shows how that group compares to the others at a glance. My original version was a stacked bar chart that also showed contactless cards. I removed them because they don’t need replacing, so they only made the bars harder to compare.
 
-Training completed: Oct 28, 2026
+Training completed: Oct 29, 2026
