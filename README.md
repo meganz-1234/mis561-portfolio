@@ -22,7 +22,7 @@ Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?, Determine which 
 **Oct 29th, 2026 · Data Storytelling with Adobe Express**
 Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 229 non-contactless cards expiring in 7 to 12 months now for $1,832.
 
-[Work sample (PDF)](_________________) · [Adobe Express]([https://...](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:52113936-7e7f-40b7-8118-1585182e0ecc?accept=true&invite=true&promoid=Z2G1FQKR&mv=other))
+[Work sample (PDF)]([(https://github.com/meganz-1234/mis561-portfolio/blob/main/adobe/zhang-data-storytelling.pdf)]) · [Adobe Express]([https://...](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:52113936-7e7f-40b7-8118-1585182e0ecc?accept=true&invite=true&promoid=Z2G1FQKR&mv=other))
 
 Design choice: I used a single bar chart of only the non-contactless cards, with the 7 to 12 month group in green and the others in gray, because Renee’s decision is which batch to replace early, and one highlighted bar shows how that group compares to the others at a glance. My original version was a stacked bar chart that also showed contactless cards. I removed them because they don’t need replacing, so they only made the bars harder to compare.
 
