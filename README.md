@@ -31,7 +31,7 @@ Training completed: Oct 29, 2026
 **Nov 5th, 2026 · Product Pitch with Generative AI in Adobe Express**
 Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase to prepare next quarter's early-replacement batch of non-contactless cards.
 
-[Pitch deck (PDF)]([https://github.com/meganz-1234/mis561-portfolio/blob/main/adobe/zhang-product-pitch.pdf]) · [Adobe Express]([https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:3da00b23-95d3-5887-bda9-45c33b080ecf?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other])
+[Pitch deck (PDF)](https://github.com/meganz-1234/mis561-portfolio/blob/main/adobe/zhang-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:3da00b23-95d3-5887-bda9-45c33b080ecf?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
 
 Toughest objection: "Why not just replace the cards expiring within 6 months first instead of the 7 to 12-month window?"
 
