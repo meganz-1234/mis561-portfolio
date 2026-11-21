@@ -40,3 +40,14 @@ Slide 7 answers it: cards expiring within 0 to 6 months (1,253 cards) are alread
 AI use: Claude AI was used to help with specific wording of titles for my slides. 
 
 Training completed: Nov 5th, 2026
+
+
+**November 21, 2026 · Brand Standard Application in Tableau**
+
+Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
+
+[Tableau workbook]([https://public.tableau.com/app/profile/...](https://public.tableau.com:9443/views/IMDbBrandStandardApplication2000-2023/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+One thing I'd change: I would build a second chart showing votes per movie by release year for the top three genres. My bar chart ranks genres but can't show whether engagement is growing, which was half of Dana's question.
+
+AI use: Claude helped me check my information panel text against the IMDb writing rules, troubleshoot my votes-per-movie calculation, and draft and edit the Design Overview text, November 20, 2026.
