@@ -46,7 +46,7 @@ Training completed: Nov 5th, 2026
 
 Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
 
-[Tableau workbook](https://public.tableau.com:9443/views/IMDbBrandStandardApplication2000-2023/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau workbook](https://public.tableau.com/app/profile/mis561meganz/viz/IMDbBrandStandardApplication2000-2023/DataMoviesIMDBDashboard)
 
 One thing I'd change: I would build a second chart showing votes per movie by release year for the top three genres. My bar chart ranks genres but can't show whether engagement is growing, which was half of Dana's question.
 
