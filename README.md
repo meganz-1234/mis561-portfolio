@@ -19,7 +19,7 @@ These three projects represent my work with business profitability, operational 
 
 Project: Develop a basic profitability set of dashboards
 
-Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/SouthwestOfficeSolutionsMarginRecoverybySubcategory/ExploratoryDash)
+[Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/SouthwestOfficeSolutionsMarginRecoverybySubcategory/ExploratoryDash)
 
 What I would change: If I were doing this project again, I'd of planned earlier and spent more time cleaning the visual up.
 
