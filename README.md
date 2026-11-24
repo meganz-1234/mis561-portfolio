@@ -13,12 +13,3 @@ Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?, Determine which 
 ](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17925140940150/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I were to do this again, I would experiment with adding an interactive demographic parameter to let decision-makers drill down into individual cities within top-performing state markets.
 
 
-**November 21, 2026 · Brand Standard Application in Tableau**
-
-Rebranded a public IMDb movie dashboard, then built a brief for Dana Ruiz, VP of Advertising Sales: which two or three genres should lead next year's ad pitch?
-
-[Tableau workbook](https://public.tableau.com/app/profile/mis561meganz/viz/IMDbBrandStandardApplication2000-2023/DataMoviesIMDBDashboard)
-
-One thing I'd change: I would build a second chart showing votes per movie by release year for the top three genres. My bar chart ranks genres but can't show whether engagement is growing, which was half of Dana's question.
-
-AI use: Claude helped me check my information panel text against the IMDb writing rules, troubleshoot my votes-per-movie calculation, and draft and edit the Design Overview text, November 20, 2026.
