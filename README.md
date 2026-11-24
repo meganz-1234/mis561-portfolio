@@ -41,6 +41,7 @@ Project: Determine which non-contactless card portfolio segment should Bear Down
 What I would change: If I did this again, I would give the viewer a toggle button to quickly switch between viewing card counts and total dollar costs.
 
 **More Work**
+
 In addition to my featured projects, I have completed other assignments involving profitability analysis, business intelligence, data storytelling, and dashboard design.
 
 **Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?** 
