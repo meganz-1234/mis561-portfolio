@@ -1,4 +1,4 @@
-Adobe Express – Data Storytelling and Product Pitch
+**Adobe Express – Data Storytelling and Product Pitch**
 
 This folder contains my Adobe Express projects from MIS 561, including a data storytelling infographic and a product pitch developed for Bear Down Bank.
 
