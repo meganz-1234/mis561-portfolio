@@ -2,39 +2,59 @@
 A portfolio of my work in business analytics, data visualization, business intelligence, and data storytelling through the University of Arizona's MIS 561 course.
 
 **About Me**
+
 I am a Management Information Systems student at the University of Arizona with an interest in using data to solve business problems and support better decision-making. Through my coursework, I have developed experience with Excel, Tableau, Power BI, Adobe Express, and generative AI tools. I enjoy analyzing business performance, identifying trends, and turning data into recommendations that decision-makers can use.
 
 **Connect with me:**
+
 [Tableau Public](https://public.tableau.com/app/profile/mis561meganz/vizzes)
 [GitHub](https://github.com/meganz-1234)
 [LinkedIn](https://www.linkedin.com/in/megan-zhang1012/)
 
 **Featured Work** 
+
 These three projects represent my work with business profitability, operational decision-making, and customer analysis.
 
+**1. Initial E-Commerce Profitability Analysis**
 
+Project: Develop a basic profitability set of dashboards
 
-Initial E-Commerce Profitability Analysis, Develop a basic profitability set of dashboards, [Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/SouthwestOfficeSolutionsMarginRecoverybySubcategory/ExploratoryDash); If I were doing this project again, I'd of planned earlier and spent more time cleaning the visual up.
+Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/SouthwestOfficeSolutionsMarginRecoverybySubcategory/ExploratoryDash)
 
-Analyze account-level net contributions and service tiers to determine where Southwest Office Solutions is losing money and recommend policy changes, [Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/AdvancinginExcelandTableau-Pt_2_17897851165190/AccountPortfolioDashboard?publish=yes); If I were doing this project again, I'd plan out the filter interactions and context filters earlier to spend more time refining the visual focus.
+What I would change: If I were doing this project again, I'd of planned earlier and spent more time cleaning the visual up.
 
+**2. Account Profitability and Service Tiers**
 
-Bear Down Bank Card Portfolio - Contactless Readiness, Determine which non-contactless card portfolio segment should Bear Down Bank target for a single early-replacement batch this quarter to maximize customer value without wasting budget on imminent auto-expirations; [Card Portfolio Review - Contactless Readiness
-](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I did this again, I would give the viewer a toggle button to quickly switch between viewing card counts and total dollar costs.
+Project: Analyze account-level net contributions and service tiers to determine where Southwest Office Solutions is losing money and recommend policy changes
+
+[Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/AdvancinginExcelandTableau-Pt_2_17897851165190/AccountPortfolioDashboard?publish=yes) 
+
+What I would change: If I were doing this project again, I'd plan out the filter interactions and context filters earlier to spend more time refining the visual focus.
+
+**3. Bear Down Bank Card Portfolio – Contactless Readiness**
+
+Project: Determine which non-contactless card portfolio segment should Bear Down Bank target for a single early-replacement batch this quarter to maximize customer value without wasting budget on imminent auto-expirations
+
+[Card Portfolio Review - Contactless Readiness
+](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+What I would change: If I did this again, I would give the viewer a toggle button to quickly switch between viewing card counts and total dollar costs.
 
 **More Work**
 In addition to my featured projects, I have completed other assignments involving profitability analysis, business intelligence, data storytelling, and dashboard design.
 
-Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?, Determine which customer segment should Bear Down Bank target for its initial Wildcat Rewards pre-approved credit card pilot mailing to maximize conversion efficiency at a 670 FICO cutoff; [Wildcat Rewards Card: Who Can We Pre-Approve?
-](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17925140940150/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I were to do this again, I would experiment with adding an interactive demographic parameter to let decision-makers drill down into individual cities within top-performing state markets.
+**Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?** 
+
+Project: Determine which customer segment should Bear Down Bank target for its initial Wildcat Rewards pre-approved credit card pilot mailing to maximize conversion efficiency at a 670 FICO cutoff
+
+[Wildcat Rewards Card: Who Can We Pre-Approve?
+](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17925140940150/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+What I would change: If I were to do this again, I would experiment with adding an interactive demographic parameter to let decision-makers drill down into individual cities within top-performing state markets.
 
 **IMDb – Brand Standard Application**
 
 Rebranded a public IMDb movie dashboard and developed a business brief for the VP of Advertising Sales to identify which genres should lead the next advertising pitch.
-
-**Power BI Training Story**
-
-Applied Power BI training in data visualization, DAX, and business intelligence concepts, using my Tableau Public story to showcase my learning and examples.
 
 **Adobe Express – Data Storytelling and Product Pitch**
 
