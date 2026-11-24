@@ -57,6 +57,8 @@ What I would change: If I were to do this again, I would experiment with adding 
 
 Rebranded a public IMDb movie dashboard and developed a business brief for the VP of Advertising Sales to identify which genres should lead the next advertising pitch.
 
+[Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/IMDbBrandStandardApplication2000-2023/DataMoviesIMDBDashboard)
+
 **Adobe Express – Data Storytelling and Product Pitch**
 
 Created an infographic and a product pitch for Bear Down Bank, communicating an early-replacement recommendation for 229 non-contactless cards expiring in 7 to 12 months at a total cost of $1,832.
