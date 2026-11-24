@@ -5,41 +5,12 @@ Initial E-Commerce Profitability Analysis, Develop a basic profitability set of 
 
 Analyze account-level net contributions and service tiers to determine where Southwest Office Solutions is losing money and recommend policy changes, [Tableau Workbook Link](https://public.tableau.com/app/profile/mis561meganz/viz/AdvancinginExcelandTableau-Pt_2_17897851165190/AccountPortfolioDashboard?publish=yes); If I were doing this project again, I'd plan out the filter interactions and context filters earlier to spend more time refining the visual focus.
 
-MIS561 - September 26th, 2026, [Intro to Power BI Certification](https://github.com/meganz-1234/mis561-portfolio/blob/main/Certifications/Intro%20to%20Power%20BI%20Certificate.pdf); [Tableau Workbook Link](https://public.tableau.com/views/PowerBITrainingCertifications_17904654785640/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); One thing Power BI can do automatically is summarize data when creating a visualization, whereas in other projects I had to manually create summaries and calculations to analyze the data. For example, I manually summarized revenue and profit by account to compare account profitability in my Tableau analysis. Next time, I would choose Power BI for this task because its automatic summarization makes it easier to explore the data and quickly change how the information is grouped. I would still use Tableau when I need more customized visualizations or presentation-focused analysis.
-
-MIS561 - September 29th, 2026, [Intro to DAX in Power BI Certification](https://github.com/meganz-1234/mis561-portfolio/blob/main/Certifications/Introduction%20to%20DAX%20in%20Power%20BI.pdf); [Tableau Workbook Link](https://public.tableau.com/views/PowerBITrainingCertifications_17904654785640/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); In my Flex 4 account profitability analysis assignment, I calculated discounted price for each order by subtracting the discount amount from the list price. In Power BI, I would create discounted price as a calculated column because it is a fixed value for each individual order rather than a calculation that needs to change based on report filters. This would keep the discounted price available at the row level while allowing other calculations and visualizations to use it. For Marcus, having this calculation in the data model would mean he could use the discounted price in different account or service-tier analyses without having to manually recreate the column each time.
-
-MIS561 - October 6th, 2026, [Data Visualization in Power BI Certification](https://github.com/meganz-1234/mis561-portfolio/blob/main/Certifications/Data%20Visualization%20in%20Power%20BI.pdf); [Tableau Workbook Link](https://public.tableau.com/views/PowerBITrainingCertifications_17904654785640/PowerBIStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); I am ready to contribute to business intelligence work at Southwest because my projects have helped me practice choosing the right tools and techniques for different business questions. Previously for my account profitability analysis, I manually summarized revenue, discounts, and profit by account. After learning about conditional formatting in Power BI, I would rebuild this view by highlighting negative-profit values directly in the table. This would make accounts that need attention easier for Anita to identify without needing another visual. I also used DAX to create a discounted price calculated column by subtracting the discount amount from the list price. Keeping this value at the order level would allow Marcus to use it in different account and service-tier analyses without having to recreate the calculation.
-
-At Southwest, I would use Excel for quick data cleaning, simple calculations, and smaller analyses. I would use Tableau when I need more customized visuals or presentation-focused analysis. I would use Power BI for interactive reports, reusable calculations, and recurring business reporting. One area I still need to improve is getting more experience using Power BI outside of coursework. All of my Power BI experience so far has come from DataCamp and class projects, so I have not had much experience building reports for an actual business need. I would work on this by continuing to build Power BI projects with larger datasets and practicing how to create, publish, and update reports based on changing business needs.
 
 Bear Down Bank Card Portfolio - Contactless Readiness, Determine which non-contactless card portfolio segment should Bear Down Bank target for a single early-replacement batch this quarter to maximize customer value without wasting budget on imminent auto-expirations; [Card Portfolio Review - Contactless Readiness
 ](https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness/ExploratoryDash?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I did this again, I would give the viewer a toggle button to quickly switch between viewing card counts and total dollar costs.
 
 Bear Down Bank - Wildcat Rewards Card: Who Can We Pre-Approve?, Determine which customer segment should Bear Down Bank target for its initial Wildcat Rewards pre-approved credit card pilot mailing to maximize conversion efficiency at a 670 FICO cutoff; [Wildcat Rewards Card: Who Can We Pre-Approve?
 ](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17925140940150/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link); If I were to do this again, I would experiment with adding an interactive demographic parameter to let decision-makers drill down into individual cities within top-performing state markets.
-
-**Oct 29th, 2026 · Data Storytelling with Adobe Express**
-Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: replace the 229 non-contactless cards expiring in 7 to 12 months now for $1,832.
-
-[Work sample (PDF)](https://github.com/meganz-1234/mis561-portfolio/blob/main/adobe/zhang-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:690dd291-9a54-531e-81cf-3e9fa3aee0b9?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
-
-Design choice: I used a single bar chart of only the non-contactless cards, with the 7 to 12 month group in green and the others in gray, because Renee’s decision is which batch to replace early, and one highlighted bar shows how that group compares to the others at a glance. My original version was a stacked bar chart that also showed contactless cards. I removed them because they don’t need replacing, so they only made the bars harder to compare.
-
-Training completed: Oct 29, 2026
-
-**Nov 5th, 2026 · Product Pitch with Generative AI in Adobe Express**
-Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank: approve a six-week first phase to prepare next quarter's early-replacement batch of non-contactless cards.
-
-[Pitch deck (PDF)](https://github.com/meganz-1234/mis561-portfolio/blob/main/adobe/zhang-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:3da00b23-95d3-5887-bda9-45c33b080ecf?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
-
-Toughest objection: "Why not just replace the cards expiring within 6 months first instead of the 7 to 12-month window?"
-
-Slide 7 answers it: cards expiring within 0 to 6 months (1,253 cards) are already scheduled for automatic replacement shortly, so paying $8 per card to replace them early would waste fulfillment budget on redundant cards. Targeting the 7 to 12-month window (229 cards) proactively captures the right cohort for a total cost of $1,832 ($8 × 229) without double-issuing
-
-AI use: Claude AI was used to help with specific wording of titles for my slides. 
-
-Training completed: Nov 5th, 2026
 
 
 **November 21, 2026 · Brand Standard Application in Tableau**
